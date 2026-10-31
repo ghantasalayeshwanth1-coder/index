@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Databases and private data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+temp/
+tmp/
+
+# Backups
+*.zip
+*.bak
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

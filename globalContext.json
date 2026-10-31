@@ -1,0 +1,18 @@
+{
+  "lastSelectedProfileForWorkspace": {
+    "": "local",
+    "file:///c%3A/Users/Yeshwanth/.continue/index": "local"
+  },
+  "selectedModelsByProfileId": {
+    "local": {
+      "chat": "gemma3:1b",
+      "edit": "gemma3:1b",
+      "apply": "gemma3:1b",
+      "embed": "Transformers.js (Built-In)",
+      "autocomplete": null,
+      "rerank": null,
+      "summarize": null,
+      "subagent": null
+    }
+  }
+}
